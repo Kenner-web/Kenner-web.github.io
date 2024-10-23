@@ -33,5 +33,5 @@ Si deseas ver o contribuir al código de mi portafolio, sigue los pasos a contin
 ### Clonación del repositorio
 
 ```bash
-git clone https://github.com/Kenner-web/Kenner-web.github.io
+git clone https://github.com/Kenner-web/Kenner-web.gitub.io
 cd Kenner-web
